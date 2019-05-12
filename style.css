@@ -1,0 +1,29 @@
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+
+    margin-top: 2%;
+}
+
+table td{
+    border: 1px solid black;
+    font-size: 1.5rem;
+    text-align: left;
+    width: 50%;
+}
+
+.filtr{
+    border: none;
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    font-size: 1rem;
+    padding: 11px 25px;
+    cursor: pointer;
+    display: inline-block;
+}
+
+.searchText{
+    display: inline-block;
+    height: 35px;
+}
